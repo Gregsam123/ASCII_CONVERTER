@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ASCII CONVERTER</string>
+    <string name="welcome">Welcome</string>
+    <string name="encode">ENCODE</string>
+    <string name="decode">DECODE</string>
+    <string name="DECODE">DECODE</string>
+    <string name="ENCODE">ENCODE</string>
+    <string name="HI">HI</string>
+</resources>
